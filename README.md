@@ -11,3 +11,12 @@ Check out the website to learn more: https://zmk.dev/.
 You can also come join our [ZMK Discord Server](https://zmk.dev/community/discord/invite).
 
 To review features, check out the [feature overview](https://zmk.dev/docs/). ZMK is under active development, and new features are listed with the [enhancement label](https://github.com/zmkfirmware/zmk/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) in GitHub. Please feel free to add 👍 to the issue description of any requests to upvote the feature.
+
+[Keymap Editor](https://nickcoutsos.github.io/keymap-editor)
+Error at launch : « Hi there! The repository you're trying to load from doesn't have a defined config directory. Right now this application is expecting to look at that directory to discover keymaps and other metadata.
+
+If you are looking for help in getting up and running or want a better understanding of the issue, please feel free to reach out to me:
+
+    Keymap Editor Issues
+    Discord - nickcoutsos#4351
+»
